@@ -1,0 +1,264 @@
+{
+    "cards": [{
+            "mark": "clubs",
+            "value": 14,
+            "src": "img/king_of_clubs.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 14,
+            "src": "img/king_of_hearts.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 14,
+            "src": "img/king_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 14,
+            "src": "img/king_of_spades.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 13,
+            "src": "img/queen_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 13,
+            "src": "img/queen_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 13,
+            "src": "img/queen_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 13,
+            "src": "img/queen_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 12,
+            "src": "img/jack_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 12,
+            "src": "img/jack_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 12,
+            "src": "img/jack_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 12,
+            "src": "img/jack_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 10,
+            "src": "img/10_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 10,
+            "src": "img/10_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 10,
+            "src": "img/10_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 10,
+            "src": "img/10_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 9,
+            "src": "img/9_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 9,
+            "src": "img/9_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 9,
+            "src": "img/9_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 9,
+            "src": "img/9_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 8,
+            "src": "img/8_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 8,
+            "src": "img/8_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 8,
+            "src": "img/8_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 8,
+            "src": "img/8_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 7,
+            "src": "img/7_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 7,
+            "src": "img/7_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 7,
+            "src": "img/7_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 7,
+            "src": "img/7_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 6,
+            "src": "img/6_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 6,
+            "src": "img/6_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 6,
+            "src": "img/6_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 6,
+            "src": "img/6_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 5,
+            "src": "img/5_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 5,
+            "src": "img/5_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 5,
+            "src": "img/5_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 5,
+            "src": "img/5_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 4,
+            "src": "img/4_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 4,
+            "src": "img/4_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 4,
+            "src": "img/4_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 4,
+            "src": "img/4_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 3,
+            "src": "img/3_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 3,
+            "src": "img/3_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 3,
+            "src": "img/3_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 3,
+            "src": "img/3_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 2,
+            "src": "img/2_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 2,
+            "src": "img/2_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 2,
+            "src": "img/2_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 2,
+            "src": "img/2_of_diamonds.svg"
+        },
+        {
+            "mark": "spades",
+            "value": 11,
+            "src": "img/ace_of_spades.svg"
+        },
+        {
+            "mark": "hearts",
+            "value": 11,
+            "src": "img/ace_of_hearts.svg"
+        },
+        {
+            "mark": "clubs",
+            "value": 11,
+            "src": "img/ace_of_clubs.svg"
+        },
+        {
+            "mark": "diamonds",
+            "value": 11,
+            "src": "img/ace_of_diamonds.svg"
+        }
+
+    ]
+}

@@ -1,0 +1,54 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('green.jpg');
+    color: #ffffff;
+}
+
+#hand{
+
+    display: grid;
+    grid-template-columns: repeat(5 , 1fr);
+    justify-items: center;
+}
+#checkboxes{
+    display: grid;
+    grid-template-columns: repeat(5 , 1fr);
+    justify-items: center;
+}
+
+
+.card > img{
+    width: 150px;
+    height: 250px;
+    background-color: green;
+    border-style: none;
+
+}
+#bettingDisplay{
+
+    width: 80%;
+}
+
+#controlPanel{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+.bettingInput{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 10%;
+
+
+}
+
+#bd1{
+   
+    
+
+
+}

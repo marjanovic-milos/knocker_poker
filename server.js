@@ -2,6 +2,9 @@ const express = require("express");
 const app = express();
 const port = 3000;
 const TelegramBot = require("node-telegram-bot-api");
+
+require("dotenv").config();
+
 // Serve all static files from the current directory
 app.use(express.static(__dirname));
 
@@ -14,10 +17,7 @@ const bot = new TelegramBot(process.env.TELEGRAM_BOT, {
 });
 
 bot.onText(/\/start/, (msg) => {
-  bot.sendGame(
-    msg.chat.id,
-    "https://t.me/knocker_poker_bot?game=knocker_poker"
-  );
+  bot.sendGame(msg.chat.id, "knocker_poker");
 });
 
 bot.on("callback_query", (query) => {

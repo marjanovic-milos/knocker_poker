@@ -9,7 +9,7 @@ app.listen(port, () => {
   console.log(`Server listening at http://localhost:${port}`);
 });
 
-const bot = new TelegramBot("....", {
+const bot = new TelegramBot(process.env.TELEGRAM_BOT, {
   polling: true,
 });
 
@@ -22,6 +22,6 @@ bot.onText(/\/start/, (msg) => {
 
 bot.on("callback_query", (query) => {
   bot.answerCallbackQuery(query.id, {
-    url: "http://localhost:3000",
+    url: "https://knocker-poker.vercel.app",
   });
 });
